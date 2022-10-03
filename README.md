@@ -18,8 +18,6 @@ In this project, I analyzed the MRI scans of brains. Utilizing computer vision, 
 ![Unknown](https://user-images.githubusercontent.com/47287313/193498167-5cdffb1e-7175-4408-9509-34c0630b04fe.png)
 
 
-**Neural Network**
-
-In this neural network, I used pre-trained weights from the image-net model. I added several other layers to the Sequential Model in order to produce this final design:
+**Neural Network Design**
 
 <img width="400" alt="Screen Shot 2022-10-02 at 8 16 56 PM" src="https://user-images.githubusercontent.com/47287313/193498054-3e22b7a4-077a-4405-9065-99a250f41a12.png">
